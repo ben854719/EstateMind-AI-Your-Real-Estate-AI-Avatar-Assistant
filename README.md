@@ -1,1 +1,4 @@
-# EstateMind-AI-Your-Real-Estate-AI-Avatar-Assistant
+## EstateMind AI: Your Real Estate AI Avatar Assistant
+
+## Objective:
+
