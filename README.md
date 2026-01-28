@@ -99,13 +99,13 @@ The application will feature an agentic AI avatar that greets users and assists 
 ## In your prototype, LangGraph manages:
 
 - The bilingual greeting and intent detection.
-- 
+ 
 - The transition from conversation → search → booking → Q&A.
   
 - When to trigger the survey.
   
 - When to sign and store data.
-- 
+  
 - When to compute KPIs and update the dashboard.
   
 - It ensures the avatar follows a deterministic, reliable workflow, even when reasoning iteratively.
@@ -119,7 +119,7 @@ The application will feature an agentic AI avatar that greets users and assists 
 - Tool routing for search, booking logic, survey submission, RS256 signing, KPI computation.
   
 - Memory for bilingual context and conversation continuity.
-- 
+  
 - Real estate product data access.
   
 - Feature usage tracking.
@@ -220,12 +220,15 @@ The application will feature an agentic AI avatar that greets users and assists 
   
 - LangChain memory helps recover context and language preference.
 
-4. Security Layer (RS256)
-- RS256 signing is applied to all critical payloads, not just JWTs.
-- Survey responses, interaction logs, and KPI batches are signed before storage.
-- Verification uses the public key to ensure data integrity and authenticity.
-- This layer is modular and can be replaced with JWT‑based session management later.
+## Security Layer (RS256):
 
+- RS256 signing is applied to all critical payloads, not just JWTs.
+  
+- Survey responses, interaction logs, and KPI batches are signed before storage.
+  
+- Verification uses the public key to ensure data integrity and authenticity.
+  
+- This layer is modular and can be replaced with JWT‑based session management later.
 
 ## Matplotlib dashboard visualizes:
 
