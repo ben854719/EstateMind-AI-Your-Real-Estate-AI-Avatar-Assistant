@@ -40,9 +40,35 @@ The application will feature an agentic AI avatar that greets users and assists 
   
 - Feature Adoption Rate (used feature within 30 days, target 60%).
   
-- Survey Completion Rate (completed ÷ prompted, target 40%).
+- Survey Completion Rate ( target 40%).
   
-- Issue Resolution Accuracy (correctly resolved ÷ total issues, target 95%).
+- Issue Resolution Accuracy (target 95%).
+
+## Installation Requirements:
+
+- Ensure you have the following software and frameworks installed.
+
+## Prerequisites:
+
+-  Cryptography
+-  Python
+-  Matplotlib
+-  Heygen AI avatar
+-  JSON
+-  Agentic AI
+-  LangChain
+-  LangGraph
+-  LangSmith
+-  Gemini 2.5 flash
+-  MCP Server
+
+## RS256 Asymmetric Encryption Setup (JWT-style):
+
+- RS256 is commonly used with JWTs, but its underlying mechanism — signing data with a private RSA key and verifying it with a public key — works for any payload.
+
+##
+
+
 
 
 
