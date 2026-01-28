@@ -72,7 +72,7 @@ The application will feature an agentic AI avatar that greets users and assists 
 
 - Heygen videos should be pre-rendered and uploaded to your Colab environment for integration.
 
-= Install video processing and orchestration tools for the avatar integration.
+- Install video processing and orchestration tools for the avatar integration.
 
 - Install IPython to enable HTML rendering of the HeyGen avatar video link within your Colab notebook.
 
