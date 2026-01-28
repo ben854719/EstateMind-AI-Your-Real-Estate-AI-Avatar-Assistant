@@ -52,6 +52,7 @@ The application will feature an agentic AI avatar that greets users and assists 
 
 -  Cryptography
 -  Python
+-  Pandas
 -  Matplotlib
 -  Heygen AI avatar
 -  JSON
