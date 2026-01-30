@@ -54,6 +54,7 @@ The application will feature an agentic AI avatar that greets users and assists 
 -  Python
 -  Pandas
 -  Matplotlib
+-  beautifulsoup4
 -  Heygen AI avatar
 -  JSON
 -  Agentic AI
