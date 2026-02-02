@@ -6,6 +6,8 @@ The application will feature an agentic AI avatar that greets users and assists 
 
 ## Video of the project:
 
+https://github.com/user-attachments/assets/4445b719-ffc0-4243-9945-77384645d85f
+
 ## Features:
 
 ## Bilingual AI avatar assistant:
